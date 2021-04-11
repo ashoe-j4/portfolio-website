@@ -1,0 +1,25 @@
+h1 {
+    color: aqua;
+}
+* {
+    border: solid;
+    color: coral;
+}
+.header{
+    background-color: rgb(151, 221, 192);
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h2{
+    color: coral;
+    text-align: center;
+}
